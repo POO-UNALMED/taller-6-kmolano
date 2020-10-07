@@ -7,7 +7,7 @@ public class Automovil extends Vehiculo{
     static int nAutomoviles;
 
     int puestos;
-
+    //No califica
     public Automovil(){
 
         super.setPuertas(4);

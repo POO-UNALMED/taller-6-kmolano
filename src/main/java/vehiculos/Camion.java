@@ -5,7 +5,7 @@ public class Camion extends Vehiculo{
     static int nCamiones;
 
     int ejes;
-
+    //No califica
     public Camion(){
         super.setPuertas(2);
         super.setVelocidadMaxima(80);

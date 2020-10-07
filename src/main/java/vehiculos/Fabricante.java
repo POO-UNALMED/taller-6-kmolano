@@ -17,7 +17,7 @@ public class Fabricante {
         this.nombre=nombre;
         this.pais=pais;
     }
-
+    //No califica
     public String getNombre(){
         return nombre;
     }

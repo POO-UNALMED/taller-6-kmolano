@@ -1,7 +1,7 @@
 package vehiculos;
 
 public class Vehiculo {
-
+    //No califica
     //atributos
     String placa;
     int puertas;

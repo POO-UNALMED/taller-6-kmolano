@@ -6,7 +6,7 @@ public class Pais {
 
     String nombre;
     static ArrayList<String> ps= new ArrayList<String>();
-
+    //No califica
     public Pais(){
 
     }

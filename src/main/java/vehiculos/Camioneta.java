@@ -3,7 +3,7 @@ package vehiculos;
 public class Camioneta extends Vehiculo{
 
     static int nCamionetas;
-
+    //No califica
     boolean volco;
 
     public Camioneta(){
