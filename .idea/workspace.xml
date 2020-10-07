@@ -22,11 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22e89242-e577-4988-9e1d-7d00828adf64" name="Default Changelist" comment="" />
+    <list default="true" id="22e89242-e577-4988-9e1d-7d00828adf64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -69,6 +74,9 @@
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1iWyCMh1KdOvpGbnosvM8144nAI" />
   <component name="ProjectViewState">
@@ -176,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602038356694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="....">
+      <created>1602041398027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602041398027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ipkojou">
+      <created>1602041528629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602041528629</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,32 +211,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicial" />
     <MESSAGE value="Ahora si :v" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ahora si :v" />
+    <MESSAGE value="...." />
+    <MESSAGE value="ipkojou" />
+    <option name="LAST_COMMIT_MESSAGE" value="ipkojou" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1602039793417">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1602042020639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1602039793417" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1602039793417">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1602042020639" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1602042020639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1602039793417" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1602039793417">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1602042020639" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1602042020639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1602039793417" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1602039793417">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1602042020639" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1602042020639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1602039793417" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1602038358455">
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1602042020639" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1602041529956">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1602038358455" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1602041529956" />
   </component>
 </project>
